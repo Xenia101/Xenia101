@@ -1,5 +1,20 @@
-<div align="center">
-	<a href="https://www.youtube.com/watch?v=57c94il3Eng">
-		<img width="550px" src="https://github.com/Xenia101/Xenia101/blob/master/xenia-amongus.gif?raw=true">
-	</a>
-</div>
+<!-- Intro -->
+<h3 align="center">
+	<samp>&gt; Hey There!, I am
+		<b><a target="_blank" href="http://xenia101.github.io/">XENIA</a></b>
+	</samp>
+</h3>
+
+
+<!-- Pinned Repositories -->
+#### Pinned
+
+<p align="center">
+<a href="https://github.com/Xenia101/Network-Anomaly-Detection-System">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=xenia101&repo=Network-Anomaly-Detection-System" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/Xenia101/KeyStroke-Dynamics">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=xenia101&repo=KeyStroke-Dynamics" />
+</a>
+</p>
