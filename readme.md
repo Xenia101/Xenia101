@@ -1,16 +1,17 @@
 <!-- Intro -->
-<h3 align="center">
+<h2 align="center">
 	<samp>&gt; Hey There!, I am
 		<b><a target="_blank" href="http://xenia.kr/">XENIA</a></b>
 	</samp>
-</h3>
+</h2>
 
 ### Interests
 
 - 💻 Development
 - 🔒 Security
-- 🍺 Alcohol
 - 🐱‍🐉 HIPSTER Development & Technology
+- 🍺 Alcohol
+- 🎣 lure fishing
 
 > If you want to collaborate, feel free to contact me 🔥
 
