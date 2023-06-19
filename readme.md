@@ -7,9 +7,9 @@
 
 ### Interests
 
+- 🐱‍🐉 HIPSTER Development & Technology
 - 💻 Development
 - 🔒 Security
-- 🐱‍🐉 HIPSTER Development & Technology
 - 🍺 Alcohol
 - 🍗 Gourmet
 - 🎣 lure fishing
