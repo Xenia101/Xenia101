@@ -2,7 +2,7 @@
 
 ### Interests
 
-- 🐱‍🐉 HIPSTER Development & Technology
+- 🦥 HIPSTER Technology
 - 💻 Development
 - 🔒 Security
 - 🍺 Alcohol
